@@ -1,11 +1,11 @@
-Chave Seccionadora LÃ¢mina (Aberta)
-Chave Seccionadora LÃ¢mina (Fechada)
+Chave Seccionadora Lâmina (Aberta)
+Chave Seccionadora Lâmina (Fechada)
 Chave Seccionadora Tandem (Aberta)
 Chave Seccionadora Tandem (Fechada)
 Chave Seccionadora Tripolar (Aberta)
 Chave Seccionadora Tripolar (Fechada)
 Disjuntor
-FusÃ­vel
+Fusível
 Isolador disco de vidro
 Isolador pino de porcelana conjunto
 Isolador pino de porcelana individual
@@ -15,3 +15,4 @@ Religador
 Transformador
 Transformador de Corrente (TC)
 Transformador de Potencial (TP)
+Chave Seccionadora LÃ¢mina (Fechada)
