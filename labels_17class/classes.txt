@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Chave Seccionadora Lâmina (Aberta)
 Chave Seccionadora Lâmina (Fechada)
 Chave Seccionadora Tandem (Aberta)
@@ -16,23 +15,3 @@ Religador
 Transformador
 Transformador de Corrente (TC)
 Transformador de Potencial (TP)
-=======
-Chave Seccionadora Lâmina (Aberta)
-Chave Seccionadora Lâmina (Fechada)
-Chave Seccionadora Tandem (Aberta)
-Chave Seccionadora Tandem (Fechada)
-Chave Seccionadora Tripolar (Aberta)
-Chave Seccionadora Tripolar (Fechada)
-Disjuntor
-Fusível
-Isolador disco de vidro
-Isolador pino de porcelana conjunto
-Isolador pino de porcelana individual
-Mufla
-Para-raio
-Religador
-Transformador
-Transformador de Corrente (TC)
-Transformador de Potencial (TP)
-Chave Seccionadora LÃ¢mina (Fechada)
->>>>>>> d904941dd86eaea1e923ad9a64b6b19dd13b1fd1
