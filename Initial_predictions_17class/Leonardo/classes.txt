@@ -1,0 +1,17 @@
+Chave Seccionadora Lamina (Aberta)
+Chave Seccionadora Lamina (Fechada)
+Chave Seccionadora Tandem (Aberta)
+Chave Seccionadora Tandem (Fechada)
+Chave Seccionadora Tripolar (Aberta)
+Chave Seccionadora Tripolar (Fechada)
+Disjuntor
+Fusivel
+Isolador disco de vidro
+Isolador pino de porcelana conjunto
+Isolador pino de porcelana individual
+Mufla
+Para-raio
+Religador
+Transformador
+Transformador de Corrente (TC)
+Transformador de Potencial (TP)
